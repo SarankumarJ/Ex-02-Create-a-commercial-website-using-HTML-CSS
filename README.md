@@ -1,4 +1,4 @@
-# Ex-02-Create-a-commercial-website-using-HTML-CSS
+# Ex-09 Create a commercial website using HTML & CSS
 ## AIM:-
 To create a commercial website using HTML & CSS.
 
@@ -16,6 +16,8 @@ Link the css file with html code using link tag
 Run the code and check the webpage in an web browser.
 
 ## PROGRAM:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ### HTML:
 ```html
 <!DOCTYPE html>
